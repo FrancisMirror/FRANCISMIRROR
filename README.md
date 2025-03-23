@@ -1,6 +1,5 @@
 # 👋 ¡Hola! Soy Fran Espejo (AKA. FrancisMirror)
 
-🧠 Técnico de sistemas y consultor en ciberseguridad.  
 💻 Apasionado de la tecnología, el hacking ético y el desarrollo de herramientas útiles para proteger infraestructuras y optimizar procesos. Desde 2021 he trabajado en el mundo Tech, ayudando a empresas a mejorar su infraestructura, reforzar su seguridad y construir soluciones eficientes. Me especializo en:
 
 - 🔐 Ciberseguridad de sistemas  
