@@ -1,20 +1,18 @@
-# 👋 ¡Hola! Soy Fran Espejo (FrancisMirror)
+# 👋 ¡Hola! Soy Fran Espejo (AKA. FrancisMirror)
 
 🧠 Técnico de sistemas y consultor en ciberseguridad.  
-💻 Apasionado de la tecnología, el hacking ético y el desarrollo de herramientas útiles para proteger infraestructuras y optimizar procesos.
+💻 Apasionado de la tecnología, el hacking ético y el desarrollo de herramientas útiles para proteger infraestructuras y optimizar procesos. Desde 2021 he trabajado en el mundo Tech, ayudando a empresas a mejorar su infraestructura, reforzar su seguridad y construir soluciones eficientes. Me especializo en:
 
-Desde 2021 he trabajado en el mundo Tech, ayudando a empresas a mejorar su infraestructura, reforzar su seguridad y construir soluciones eficientes. Me especializo en:
-
-- 🔐 Ciberseguridad y hardening de sistemas
-- 🖥️ Reparación, mantenimiento y optimización de hardware
-- 🧰 Automatización y herramientas propias en Python
-- 🧩 Integración de soluciones a medida para clientes
+- 🔐 Ciberseguridad de sistemas  
+- 🖥️ Reparación, mantenimiento y optimización de hardware  
+- 🌐 Desarrollo de servidores, tiendas online y webs bajo políticas de seguridad  
+- 🧩 Integración de soluciones a medida para clientes  
 - 📸 Creación de contenido técnico y visual para redes
 
 ## 🔗 Enlaces
 
 - 🌐 [Página personal](https://francismirror.com)
-- 📝 [Blog técnico](https://blog.francismirror.com) *(si lo tienes)*
+- 📝 [Blog técnico](https://blog.francismirror.com)
 - 💼 [LinkedIn](https://linkedin.com/in/francespejo)
 - 🐦 [Twitter](https://twitter.com/francismirror_)
 
