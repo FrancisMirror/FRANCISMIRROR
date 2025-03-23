@@ -3,10 +3,6 @@
 🧠 Técnico de sistemas y consultor en ciberseguridad.  
 💻 Apasionado de la tecnología, el hacking ético y el desarrollo de herramientas útiles para proteger infraestructuras y optimizar procesos.
 
----
-
-## 🔍 Sobre mí
-
 Desde 2021 he trabajado en el mundo Tech, ayudando a empresas a mejorar su infraestructura, reforzar su seguridad y construir soluciones eficientes. Me especializo en:
 
 - 🔐 Ciberseguridad y hardening de sistemas
@@ -15,26 +11,12 @@ Desde 2021 he trabajado en el mundo Tech, ayudando a empresas a mejorar su infra
 - 🧩 Integración de soluciones a medida para clientes
 - 📸 Creación de contenido técnico y visual para redes
 
----
-
-## 🚀 Proyectos destacados
-
-### 🔐 [Secure Password Generator](https://github.com/FrancisMirror/Secure_Password_Generator)
-App de escritorio en Python + Tkinter para generar contraseñas seguras personalizadas.  
-- `.exe` portable sin instalación  
-- Hasta 40 caracteres  
-- Estilo hacker 😎
-
----
-
 ## 🔗 Enlaces
 
 - 🌐 [Página personal](https://francismirror.com)
 - 📝 [Blog técnico](https://blog.francismirror.com) *(si lo tienes)*
 - 💼 [LinkedIn](https://linkedin.com/in/francespejo)
 - 🐦 [Twitter](https://twitter.com/francismirror_)
-
----
 
 ## 🛠️ Skills
 
@@ -49,13 +31,9 @@ App de escritorio en Python + Tkinter para generar contraseñas seguras personal
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
----
-
 ## 📫 Contacto
 
 Puedes escribirme a: **fran@francismirror.com**  
 O a través de [LinkedIn](https://linkedin.com/in/francespejo)
-
----
 
 > “La seguridad no es un producto, es un proceso.”
