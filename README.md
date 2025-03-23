@@ -8,13 +8,13 @@ Me destaco por mi capacidad para resolver problemas de manera rápida y efectiva
 Mi objetivo es seguir creciendo en el campo de la ciberseguridad, aportando mi conocimiento y experiencia para ayudar a las organizaciones a proteger sus activos digitales y optimizar sus operaciones tecnológicas
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Página%20%20Personal-green?style=for-the-badge&logo=gitlab&logoColor=white)](https://franespejo.com/)
+[![portfolio](https://img.shields.io/badge/Página%20%20Personal-green?style=for-the-badge&logo=gitlab&logoColor=white)](https://francismirror.com/)
 
-[![blog](https://img.shields.io/badge/Blog%20%20Personal-grey?style=for-the-badge&logo=e&logoColor=white)](https://blog.franespejo.com/)
+[![blog](https://img.shields.io/badge/Blog%20%20Personal-grey?style=for-the-badge&logo=e&logoColor=white)](https://blog.francismirror.com/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-espejo-carretero/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francespejo/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/francismirror_/)
 
 
 ## 🛠 Skills
