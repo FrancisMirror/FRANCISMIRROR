@@ -1,11 +1,10 @@
 
 # Hola 👋, soy Fran Espejo
 
-Soy un profesional ambicioso, con una sólida formación y experiencia en el ámbito de la informática y la ciberseguridad. Durante mi carrera, he tenido la oportunidad de trabajar en diversas empresas, desempeñando roles clave en el desarrollo y diseño de páginas web, administración de servidores, y seguridad digital.
+Soy un apasionado de los sistemas, la ciberseguridad y el hardware. Desde 2021, me he dedicado al mundo Tech, ayudando a empresas a optimizar su infraestructura, reforzar su seguridad y construyendo soluciones eficientes, además de reparación y mantenimiento de hardware.
+Mi objetivo es claro: impulsar el éxito de cada empresa con la que trabajo, ofreciendo consultoría y soluciones adaptadas a sus necesidades.
+Además de la tecnología, disfruto de la fotografía, la creación de contenido para redes y la publicación de artículos, compartiendo conocimiento y experiencias con la comunidad.
 
-Me destaco por mi capacidad para resolver problemas de manera rápida y efectiva, así como por mi constante búsqueda de la excelencia. Poseo un nivel avanzado de inglés y he trabajado en proyectos tanto nacionales como internacionales, lo que me ha permitido desarrollar una comprensión profunda de las necesidades y desafíos del entorno tecnológico global. Además, tengo habilidades comprobables en la creación y administración de tiendas online, soporte help desk, y estrategias de seguridad digital.
-
-Mi objetivo es seguir creciendo en el campo de la ciberseguridad, aportando mi conocimiento y experiencia para ayudar a las organizaciones a proteger sus activos digitales y optimizar sus operaciones tecnológicas
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Página%20%20Personal-green?style=for-the-badge&logo=gitlab&logoColor=white)](https://francismirror.com/)
