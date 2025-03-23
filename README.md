@@ -2,6 +2,7 @@
 # Hola 👋, soy Fran Espejo
 
 Soy un apasionado de los sistemas, la ciberseguridad y el hardware. Desde 2021, me he dedicado al mundo Tech, ayudando a empresas a optimizar su infraestructura, reforzar su seguridad y construyendo soluciones eficientes, además de reparación y mantenimiento de hardware.
+
 Mi objetivo es claro: impulsar el éxito de cada empresa con la que trabajo, ofreciendo consultoría y soluciones adaptadas a sus necesidades.
 Además de la tecnología, disfruto de la fotografía, la creación de contenido para redes y la publicación de artículos, compartiendo conocimiento y experiencias con la comunidad.
 
