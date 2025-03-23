@@ -1,23 +1,61 @@
+# 👋 ¡Hola! Soy Fran Espejo (FrancisMirror)
 
-# Hola 👋, soy Fran Espejo
+🧠 Técnico de sistemas y consultor en ciberseguridad.  
+💻 Apasionado de la tecnología, el hacking ético y el desarrollo de herramientas útiles para proteger infraestructuras y optimizar procesos.
 
-Soy un apasionado de los sistemas, la ciberseguridad y el hardware. Desde 2021, me he dedicado al mundo Tech, ayudando a empresas a optimizar su infraestructura, reforzar su seguridad y construyendo soluciones eficientes, además de reparación y mantenimiento de hardware.
+---
 
-Mi objetivo es claro: impulsar el éxito de cada empresa con la que trabajo, ofreciendo consultoría y soluciones adaptadas a sus necesidades.
-Además de la tecnología, disfruto de la fotografía, la creación de contenido para redes y la publicación de artículos, compartiendo conocimiento y experiencias con la comunidad.
+## 🔍 Sobre mí
 
+Desde 2021 he trabajado en el mundo Tech, ayudando a empresas a mejorar su infraestructura, reforzar su seguridad y construir soluciones eficientes. Me especializo en:
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Página%20%20Personal-green?style=for-the-badge&logo=gitlab&logoColor=white)](https://francismirror.com/)
+- 🔐 Ciberseguridad y hardening de sistemas
+- 🖥️ Reparación, mantenimiento y optimización de hardware
+- 🧰 Automatización y herramientas propias en Python
+- 🧩 Integración de soluciones a medida para clientes
+- 📸 Creación de contenido técnico y visual para redes
 
-[![blog](https://img.shields.io/badge/Blog%20%20Personal-grey?style=for-the-badge&logo=e&logoColor=white)](https://blog.francismirror.com/)
+---
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francespejo/)
+## 🚀 Proyectos destacados
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/francismirror_/)
+### 🔐 [Secure Password Generator](https://github.com/FrancisMirror/Secure_Password_Generator)
+App de escritorio en Python + Tkinter para generar contraseñas seguras personalizadas.  
+- `.exe` portable sin instalación  
+- Hasta 40 caracteres  
+- Estilo hacker 😎
 
+---
 
-## 🛠 Skills
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 🔗 Enlaces
 
+- 🌐 [Página personal](https://francismirror.com)
+- 📝 [Blog técnico](https://blog.francismirror.com) *(si lo tienes)*
+- 💼 [LinkedIn](https://linkedin.com/in/francespejo)
+- 🐦 [Twitter](https://twitter.com/francismirror_)
 
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-black?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff0033?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📫 Contacto
+
+Puedes escribirme a: **fran@francismirror.com**  
+O a través de [LinkedIn](https://linkedin.com/in/francespejo)
+
+---
+
+> “La seguridad no es un producto, es un proceso.”
