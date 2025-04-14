@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Fran Espejo (AKA. FrancisMirror)
+# 👋 ¡Hola! Soy Fran Espejo
 
 💻 Apasionado de la tecnología, el hacking ético y el desarrollo de herramientas útiles para proteger infraestructuras y optimizar procesos. Desde 2021 he trabajado en el mundo Tech, ayudando a empresas a mejorar su infraestructura, reforzar su seguridad y construir soluciones eficientes. Me especializo en:
 
@@ -10,10 +10,10 @@
 
 ## 🔗 Enlaces
 
-- 🌐 [Página personal](https://francismirror.com)
-- 📝 [Blog técnico](https://blog.francismirror.com)
+- 🌐 [Página personal](https://francespejo.com)
+- 📝 [Blog técnico](https://blog.francespejo.com)
 - 💼 [LinkedIn](https://linkedin.com/in/francespejo)
-- 🐦 [Twitter](https://twitter.com/francismirror_)
+- 🐦 [Twitter](https://twitter.com/franespejo)
 
 ## 🛠️ Skills
 
